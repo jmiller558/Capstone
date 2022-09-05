@@ -1,0 +1,3 @@
+https://usafacts.org/data/ – Overview of many good potential metrics
+
+https://oui.doleta.gov/unemploy/claims.asp – download unemployment data by state
