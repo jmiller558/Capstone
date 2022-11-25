@@ -20,10 +20,10 @@
  
 ## Implementation
 
-**EDA:** 
+### EDA:
   - [Exploratory Data Analysis](https://github.com/jmiller558/Capstone/blob/main/Inventory-Planner-EDA.ipynb)
 
-**Models:**
+### Models:
 
  1) Baseline Models
     - [Exponential Smoothing](https://github.com/jmiller558/Capstone/blob/main/Exponential_Smoothing_Final.ipynb)
@@ -35,6 +35,8 @@
 3) TFT
    - [TFT](https://github.com/jmiller558/Capstone/blob/main/TFT_Final.ipynb)
    
- **Evaluation Script:**
+### Evaluation Script:
    - [Evaluation Script](https://github.com/jmiller558/Capstone/blob/main/Evaluation.ipynb)
 
+### Website link:
+   - [Berkeley Intranet project link](https://www.ischool.berkeley.edu/projects/2022/superplan-forecasting-and-demand-planning)
