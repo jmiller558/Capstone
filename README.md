@@ -20,4 +20,21 @@
  
 ## Implementation
 
-EDA:  [Exploratory Data Analysis](https://github.com/jmiller558/Capstone/blob/main/Inventory-Planner-EDA.ipynb)
+**EDA:** 
+  - [Exploratory Data Analysis](https://github.com/jmiller558/Capstone/blob/main/Inventory-Planner-EDA.ipynb)
+
+**Models:**
+
+ 1) Baseline Models
+    - [Exponential Smoothing](https://github.com/jmiller558/Capstone/blob/main/Exponential_Smoothing_Final.ipynb)
+    - [Weekly forecast - Exponential Smoothing](https://github.com/jmiller558/Capstone/blob/main/Weekly_Exponential_Smoothing_Final.ipynb)
+
+2) LightGBM
+    - [LightGBM](https://github.com/jmiller558/Capstone/blob/main/LightGBM_Final.ipynb)
+   
+3) TFT
+   - [TFT](https://github.com/jmiller558/Capstone/blob/main/TFT_Final.ipynb)
+   
+ **Evaluation Script:**
+   - [Evaluation Script](https://github.com/jmiller558/Capstone/blob/main/Evaluation.ipynb)
+
