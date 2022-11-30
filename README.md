@@ -30,10 +30,10 @@
     - [Weekly forecast - Exponential Smoothing](https://github.com/jmiller558/Capstone/blob/main/Weekly_Exponential_Smoothing_Final.ipynb)
 
 2) LightGBM
-    - [LightGBM](https://github.com/jmiller558/Capstone/blob/main/LightGBM_Final.ipynb)
+    - [LightGBM](https://github.com/jmiller558/Capstone/blob/4c1cd356471c6aee73814b5c189fae4eb68694a8/LightGBM_Final.ipynb)
    
 3) TFT
-   - [TFT](https://github.com/jmiller558/Capstone/blob/main/TFT_Final.ipynb)
+   - [TFT](https://github.com/jmiller558/Capstone/blob/4c1cd356471c6aee73814b5c189fae4eb68694a8/TFT_Final.ipynb)
    
 ### Evaluation Script:
    - [Evaluation Script](https://github.com/jmiller558/Capstone/blob/main/Evaluation.ipynb)
