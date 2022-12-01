@@ -33,7 +33,7 @@
     - [LightGBM](https://github.com/jmiller558/Capstone/blob/4c1cd356471c6aee73814b5c189fae4eb68694a8/LightGBM_Final.ipynb)
    
 3) TFT
-   - [TFT](https://github.com/jmiller558/Capstone/blob/4c1cd356471c6aee73814b5c189fae4eb68694a8/TFT_Final.ipynb)
+   - [TFT](https://github.com/jmiller558/Capstone/blob/1ee3ce7c6803e0a646cfd582c36269ee0c13e955/TFT_Final.ipynb)
    
 ### Evaluation Script:
    - [Evaluation Script](https://github.com/jmiller558/Capstone/blob/main/Evaluation.ipynb)
