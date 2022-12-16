@@ -42,3 +42,6 @@
 
 ### Website link:
    - [Berkeley Intranet project link](https://www.ischool.berkeley.edu/projects/2022/superplan-forecasting-and-demand-planning)
+
+### References:
+   - the following repository was leveraged heavily in the development of our LightGBM model: https://github.com/monsaraida/kaggle-m5-forecasting-accuracy-4th-place
