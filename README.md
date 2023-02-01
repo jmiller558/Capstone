@@ -3,7 +3,7 @@
 ### Project Name: 
 * #### SuperPlan: Forecasting and Demand Planning 
 
-### Team Members
+### Team Members:
 * #### Estrella Ndrianasy, Jesse Miller, Jyoti Kumari, Kanika Mahajan, Kevin Lu
 
 ## Project Objectives
