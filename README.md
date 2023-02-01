@@ -12,7 +12,7 @@
     * Which aggregation levels do the models forecast best?
     * Are the models effective at capturing price/promo changes?
     * And do the model perform well in common business scenarios not covered by the M5?
-* [The full writeup for our project is availabe here](https://github.com/jmiller558/Capstone/blob/50659a4e2d2e9df8bc0fff481119c4f7c6fb9088/Demand%20Planning%20with%20Machine%20Learning%20-%20The%20Tradeoffs%20Faced%20by%20Business%20Users%20Today.pdf)
+* [The full writeup for our project is available here](https://github.com/jmiller558/Capstone/blob/50659a4e2d2e9df8bc0fff481119c4f7c6fb9088/Demand%20Planning%20with%20Machine%20Learning%20-%20The%20Tradeoffs%20Faced%20by%20Business%20Users%20Today.pdf)
     
 ## Implementation
 
