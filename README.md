@@ -12,7 +12,7 @@
     * Which aggregation levels do the models forecast best?
     * Are the models effective at capturing price/promo changes?
     * And do the model perform well in common business scenarios not covered by the M5?
-    * [The full writeup for our project is availabe here](https://github.com/jmiller558/Capstone/blob/main/Inventory-Planner-EDA.ipynb)
+* [The full writeup for our project is availabe here](https://github.com/jmiller558/Capstone/blob/main/Inventory-Planner-EDA.ipynb)
     
 ## Implementation
 
