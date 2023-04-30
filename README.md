@@ -13,7 +13,7 @@
     * Are the models effective at capturing price/promo changes?
     * And do the model perform well in common business scenarios not covered by the M5?
 
-####The full writeup for our project is available [here](https://github.com/jmiller558/Capstone/blob/3d2c0a47752726e8bcecaa391906e540295089c6/Demand%20Planning%20with%20Machine%20Learning%20-%20The%20Tradeoffs%20Faced%20by%20Business%20Users%20Today.pdf)
+#### The full writeup for our project is available [here](https://github.com/jmiller558/Capstone/blob/3d2c0a47752726e8bcecaa391906e540295089c6/Demand%20Planning%20with%20Machine%20Learning%20-%20The%20Tradeoffs%20Faced%20by%20Business%20Users%20Today.pdf)
     
 ## Implementation
 
